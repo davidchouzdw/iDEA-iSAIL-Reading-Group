@@ -1,7 +1,6 @@
-
-# Presenter:
-# Dates:
-# Topics:
+# Presenter: Boxin Du & Jian Kang & Qinghai Zhou
+# Dates: 2019 Spring Week 1 (2019-03-22)
+# Topics: Adversarial Attack on Graph
 # Paper list:
 * [Adversarial Attack on Graph Structured Data](https://arxiv.org/pdf/1806.02371.pdf)
 * [Adversarial Attacks on Neural Networks for Graph Data](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf )
