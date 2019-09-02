@@ -1,4 +1,5 @@
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">STAtistical leaRning & Data Mining (StarData) Reading Group</span> 
+StarData group is statistical learning and data mining reading group at UIUC, coordinated by Prof. Jingrui He and Prof. Hanghang Tong. Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4102. If you would like to present in an upcoming meeting, please broadcast your reading materials one week before the meeting. 
 
 
 <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline; line-height: 1.2em;">The following are scheduled meetings of the following semester. </span>
