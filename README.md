@@ -25,3 +25,6 @@
 | Nov 20, 2019   | -    | -    |
 | Nov 27, 2019   | NA    | Thanksgiving Break    |
 | Dec 4, 2019   | -    | -    |
+
+
+[Contribution guidelines for this project](Semester/test.txt)
