@@ -24,19 +24,19 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Nov 27, 2019   | NA    | Thanksgiving Break    |-    |
 | Dec 4, 2019   | -    | -    |-    |
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Recomended Flows</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Recommended Flows</span>
 
 #### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Introduce 1~2 Research Papers:</span>
-* 20 mins: Introduction & Background (Motivation examples, literature reiview)
+* 20 mins: Introduction & Background (Motivation examples, literature review)
 * 10 min: Problem Description (Give a formal definition of the studied problems)
-* 30 min: Brainstorm Discussion (Propose potential approches based on your personal knowledge)
+* 30 min: Brainstorm Discussion (Propose potential approaches based on your personal knowledge)
 * 30 min: Algorithm (Description of the algorithms in the papers)
 * 30 min: Critical Discussion (Pros & Cons of your ideas and the existing one)
 
 #### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Survey a Research Topic</span>
-* 20 mins: Introduction & Background (Motivation examples, literature reiview)
+* 20 mins: Introduction & Background (Motivation examples, literature review)
 * 20 min: Problem/Subproblems Description (Give a formal definition of the studied problems)
-* 60 min: Reiview (High-level discussion of the existing work)
+* 60 min: Review (High-level discussion of the existing work)
 * 20 min: Conclusion & Future Direction
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Covered topics/papers in the past:</span>
