@@ -11,9 +11,8 @@
 
 
 | Dates | Presenters | Topics | 
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |          :---: |
 | Sep 4, 2019  | Hansheng Ren | Kick Off Meeting|
-| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|
 | Sep 11, 2019   | -   | -    |
 | Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|
 | Sep 25, 2019   | -    | -    |
