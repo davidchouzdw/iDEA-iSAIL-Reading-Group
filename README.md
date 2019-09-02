@@ -6,21 +6,21 @@ StarData group is statistical learning and data mining reading group at UIUC, co
 Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4102. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
 
-| Dates | Presenters | Topics | 
-| :---:         |     :---:      |          :---: |
-| Sep 4, 2019  | Hansheng Ren | Kick Off Meeting|
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Sep 4, 2019  | Hansheng Ren | Kick Off Meeting|-    |
 | Sep 11, 2019   | -   | -    |
-| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|
-| Sep 25, 2019   | -    | -    |
-| Oct 2, 2019   | -    | -    |
-| Oct 9, 2019   | -    | -    |
-| Oct 16, 2019   | -    | -    |
-| Oct 23, 2019   | -    | -    |
-| Nov 6, 2019   | -    | -    |
-| Nov 13, 2019   | -    | -    |
-| Nov 20, 2019   | -    | -    |
-| Nov 27, 2019   | NA    | Thanksgiving Break    |
-| Dec 4, 2019   | -    | -    |
+| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|-    |
+| Sep 25, 2019   | -    | -    |-    |
+| Oct 2, 2019   | -    | -    |-    |
+| Oct 9, 2019   | -    | -    |-    |
+| Oct 16, 2019   | -    | -    |-    |
+| Oct 23, 2019   | -    | -    |-    |
+| Nov 6, 2019   | -    | -    |-    |
+| Nov 13, 2019   | -    | -    |-    |
+| Nov 20, 2019   | -    | -    |-    |
+| Nov 27, 2019   | NA    | Thanksgiving Break    |-    |
+| Dec 4, 2019   | -    | -    |-    |
 
 
 [Contribution guidelines for this project](Semester/test.txt)
