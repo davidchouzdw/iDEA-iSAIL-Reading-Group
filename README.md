@@ -23,4 +23,21 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Dec 4, 2019   | -    | -    |-    |
 
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Covered topics/papers in the past:</span>
+
+#### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Heterogeneous Learning:</span>
+
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Feedback Stabilization Using Two-Hidden-Layer Nets.  Eduardo D. Sontag. IEEE TRANSACTIONS ON NEURAL NETWORKS, VOL. 3, NO. 6, 981-, 1992.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
+
+
+#### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Graph Mining:</span>
+
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Feedback Stabilization Using Two-Hidden-Layer Nets.  Eduardo D. Sontag. IEEE TRANSACTIONS ON NEURAL NETWORKS, VOL. 3, NO. 6, 981-, 1992.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
+
+#### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Adversarial Machine Learning:</span>
+
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Feedback Stabilization Using Two-Hidden-Layer Nets.  Eduardo D. Sontag. IEEE TRANSACTIONS ON NEURAL NETWORKS, VOL. 3, NO. 6, 981-, 1992.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
+
+
+
 [Contribution guidelines for this project](Semester/test.txt)
