@@ -71,4 +71,4 @@ Provable Defenses against Adversarial Examples via the Convex Outer Adversarial 
 *   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Guanhong Tao, Shiqing Ma, Yingqi Liu, Xiangyu Zhang: Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples. NeurIPS 2018: 7728-7739</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
 
 
-[Contribution guidelines for this project](Semester/test.txt)
+[Click to see what we have covered in each semester](Semester/)
