@@ -22,7 +22,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 * 20 min: Conclusion & Future Direction
 
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2019 Fall:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
