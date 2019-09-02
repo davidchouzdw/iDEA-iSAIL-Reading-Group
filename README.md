@@ -10,7 +10,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sep 4, 2019  | Hansheng Ren | Kick Off Meeting|-    |
+| Sep 4, 2019  | Hansheng Ren | Kick-Off Meeting|-    |
 | Sep 11, 2019   |Xue Hu & Dongqi Fu| -    |
 | Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|-    |
 | Sep 25, 2019   | -    | -    |-    |
