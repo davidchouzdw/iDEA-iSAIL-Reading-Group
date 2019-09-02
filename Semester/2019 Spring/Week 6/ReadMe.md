@@ -1,6 +1,6 @@
 
-# Presenter: Si Zheng & Yancheng Wang
-# Dates: 2019 Spring Week 6 (2019-04-19)
+# Presenters: Si Zheng & Yancheng Wang
+# Date: 2019 Spring Week 6 (2019-04-19)
 # Topics: Improving Robustness to Adversarial Examples
 # Paper list:
 * [Provable Defenses against Adversarial Examples via the Convex Outer Adversarial Polytope](https://arxiv.org/pdf/1711.00851.pdf)
