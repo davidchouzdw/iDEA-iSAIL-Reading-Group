@@ -1,8 +1,8 @@
 
-# Presenter:
-# Dates:
-# Topics:
+# Presenter: Si Zheng & Yancheng Wang
+# Dates: 2019 Spring Week 6 (2019-04-19)
+# Topics: Improving Robustness to Adversarial Examples
 # Paper list:
-* [Adversarial Attack on Graph Structured Data](https://arxiv.org/pdf/1806.02371.pdf)
-* [Adversarial Attacks on Neural Networks for Graph Data](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf )
-* [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples.pdf)
+* [Provable Defenses against Adversarial Examples via the Convex Outer Adversarial Polytope](https://arxiv.org/pdf/1711.00851.pdf)
+* [GRADIENT MASKING CAUSES CLEVER TO OVERESTIMATE ADVERSARIAL PERTURBATION SIZE](https://arxiv.org/pdf/1804.07870.pdf)
+* [ON EXTENSIONS OF CLEVER: A NEURAL NETWORK ROBUSTNESS EVALUATION ALGORITHM](https://arxiv.org/pdf/1810.08640.pdf)

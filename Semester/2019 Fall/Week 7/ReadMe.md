@@ -1,8 +1,9 @@
 
-# Presenter:
-# Dates:
-# Topics:
+# Presenter: Jun Wu & Yao Zhou
+# Dates: 2019 Spring Week 7 (2019-04-26)
+# Topics: zero-shot learning & WGAN
 # Paper list:
-* [Adversarial Attack on Graph Structured Data](https://arxiv.org/pdf/1806.02371.pdf)
-* [Adversarial Attacks on Neural Networks for Graph Data](https://www.kixlab.org/courses/i2r/resource/review_paper/Adversarial_Attacks_on_neural_Networks_for_Graph_Data_Zugner.pdf )
-* [Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples](https://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples.pdf)
+* [An embarrassingly simple approach to zero-shot learning](http://proceedings.mlr.press/v37/romera-paredes15.pdf)
+* [Zero-Shot Learning - A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://arxiv.org/pdf/1707.00600.pdf)
+* [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+* [Wasserstein Generative Adversarial Networks](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)
