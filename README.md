@@ -29,7 +29,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 #### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Introduce 1~2 Research Papers:</span>
 * 20 mins: Introduction & Background (Motivation examples, literature review)
 * 10 min: Problem Description (Give a formal definition of the studied problems)
-* 30 min: Brainstorm Discussion (Propose potential approaches based on your personal knowledge)
+* 30 min: Brainstorm Discussion (Propose potential approaches based on your knowledge)
 * 30 min: Algorithm (Description of the algorithms in the papers)
 * 30 min: Critical Discussion (Pros & Cons of your ideas and the existing one)
 
