@@ -1,5 +1,5 @@
-# <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">IDEA-SAILING Reading Group</span> 
-I-I group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members in the recent advances of machine learning and data mining.
+# <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">I-I Reading Group</span> 
+I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members in the recent advances of machine learning and data mining.
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Wed 11 am} at {Thomas M. Siebel Center, 4102}.</span>
 
