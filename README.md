@@ -18,7 +18,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 9, 2019   | -    | -    |-    |
 | Oct 16, 2019   | -    | -    |-    |
 | Oct 23, 2019   | -    | -    |-    |
-| Nov 6, 2019   | -    | -    |-    |
+| Nov 6, 2019   | Lihui Liu    | -    |-    |
 | Nov 13, 2019   | -    | -    |-    |
 | Nov 20, 2019   | -    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
