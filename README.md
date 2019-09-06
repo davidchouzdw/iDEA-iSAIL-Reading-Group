@@ -15,7 +15,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|-    |
 | Sep 25, 2019 | Yao Zhou & Jun Wu    | TBD    |-    |
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
-| Oct 9, 2019   | -    | -    |-    |
+| Oct 9, 2019   | Zhe Xu    | -    |-    |
 | Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
 | Oct 23, 2019   | -    | -    |-    |
 | Nov 6, 2019   | Lihui Liu    | -    |-    |
