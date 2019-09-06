@@ -1,5 +1,5 @@
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">IDEA-SAILING Reading Group</span> 
-IDEA-SAILING group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members in the recent advances of machine learning and data mining.
+I-I group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members in the recent advances of machine learning and data mining.
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Wed 11 am} at {Thomas M. Siebel Center, 4102}.</span>
 
@@ -16,7 +16,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Sep 25, 2019   | -    | -    |-    |
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
 | Oct 9, 2019   | -    | -    |-    |
-| Oct 16, 2019   | -    | -    |-    |
+| Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
 | Oct 23, 2019   | -    | -    |-    |
 | Nov 6, 2019   | Lihui Liu    | -    |-    |
 | Nov 13, 2019   | -    | -    |-    |
