@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
 | Oct 9, 2019   | Zhe Xu    | -    |-    |
 | Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
-| Oct 23, 2019   | -    | -    |-    |
+| Oct 23, 2019   | Yu Wang & Ziye Zhu    | Language Model in NLP   |-    |
 | Nov 6, 2019   | Lihui Liu    | -    |-    |
 | Nov 13, 2019   | -    | -    |-    |
 | Nov 20, 2019   | -    | -    |-    |
