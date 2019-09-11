@@ -11,7 +11,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Sep 4, 2019  | Hansheng Ren | Kick-Off Meeting|-    |
-| Sep 11, 2019   |Xue Hu & Dongqi Fu| Data Poisoning Attacks    |
+| Sep 11, 2019   |Xue Hu & Dongqi Fu| Data Poisoning Attacks & Tracking PageRank Vector    |
 | Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|-    |
 | Sep 25, 2019 | Yao Zhou & Jun Wu    | TBD    |-    |
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
