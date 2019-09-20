@@ -12,8 +12,8 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | :---:         |     :---:      |          :---: |   :---: |
 | Sep 4, 2019  | Hansheng Ren | Kick-Off Meeting|-    |
 | Sep 11, 2019   |Xue Hu & Dongqi Fu| Data Poisoning Attacks & Tracking PageRank Vector    |
-| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|[Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf  ) [XLNet](https://arxiv.org/pdf/1906.08237.pdf  )   |
-| Sep 25, 2019 | Yao Zhou & Jun Wu    | Adversarial Attacks with Its Applications    |  [Graph embedding](http://proceedings.mlr.press/v97/bojchevski19a), [Graph Convolutional Network](https://openreview.net/pdf?id=Bylnx209YX)   |
+| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|[Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf), [XLNet](https://arxiv.org/pdf/1906.08237.pdf  )   |
+| Sep 25, 2019 | Yao Zhou & Jun Wu    | Adversarial Attacks with Its Applications    |  [Graph embedding](http://proceedings.mlr.press/v97/bojchevski19a), [Graph Convolutional Network](https://openreview.net/pdf?id=Bylnx209YX)|
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
 | Oct 9, 2019   | Zhe Xu    | -    |-    |
 | Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
