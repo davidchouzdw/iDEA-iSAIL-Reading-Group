@@ -16,7 +16,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Sep 25, 2019 | Yao Zhou & Jun Wu    | Adversarial Attack with Its Applications    |  [Graph Embedding Attack](http://proceedings.mlr.press/v97/bojchevski19a), [GCN Attack](https://openreview.net/pdf?id=Bylnx209YX), [Machine Teaching Attack](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9472/9954), [Clean-Label Poisoning](https://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks.pdf)|
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
 | Oct 9, 2019   | Zhe Xu    | Virtual Adversarial Training and Its Extention to GCN    |[Virtual Adversarial Training](https://arxiv.org/pdf/1704.03976.pdf), [Batch Virtual Adversarial Training for Graph Convolutional Networks](https://arxiv.org/pdf/1902.09192.pdf)    |
-| Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
+| Oct 16, 2019   | Si Zhang  | -    |-    |
 | Oct 23, 2019   | Yu Wang & Ziye Zhu    | Language Model in NLP   |-    |
 | Nov 6, 2019   | -    | -    |-    |
 | Nov 13, 2019   | -    | -    |-    |
