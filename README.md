@@ -1,9 +1,9 @@
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">I-I Reading Group</span> 
 I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members of the recent advances of machine learning and data mining.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Wed 11 am} at {Thomas M. Siebel Center, 4102}.</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Wed 11 am} at {Thomas M. Siebel Center, 4403}.</span>
 
-Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4102. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
+Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4403. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2019 Fall:</span>
@@ -12,17 +12,17 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | :---:         |     :---:      |          :---: |   :---: |
 | Sep 4, 2019  | Hansheng Ren | Kick-Off Meeting|-    |
 | Sep 11, 2019   |Xue Hu & Dongqi Fu| Data Poisoning Attacks & Tracking PageRank Vector    |
-| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|-    |
-| Sep 25, 2019 | Yao Zhou & Jun Wu    | TBD    |-    |
+| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|[Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf), [XLNet](https://arxiv.org/pdf/1906.08237.pdf  )   |
+| Sep 25, 2019 | Yao Zhou & Jun Wu    | Adversarial Attack with Its Applications    |  [Graph Embedding Attack](http://proceedings.mlr.press/v97/bojchevski19a), [GCN Attack](https://openreview.net/pdf?id=Bylnx209YX), [Machine Teaching Attack](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9472/9954), [Clean-Label Poisoning](https://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks.pdf)|
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
-| Oct 9, 2019   | Zhe Xu    | -    |-    |
-| Oct 16, 2019   | Si Zhang & Qinghai Zhou   | -    |-    |
+| Oct 9, 2019   | Zhe Xu    | Virtual Adversarial Training and Its Extension to GCN    |[Virtual Adversarial Training](https://arxiv.org/pdf/1704.03976.pdf), [Batch Virtual Adversarial Training for Graph Convolutional Networks](https://arxiv.org/pdf/1902.09192.pdf)    |
+| Oct 16, 2019   | Si Zhang  | -    |-    |
 | Oct 23, 2019   | Yu Wang & Ziye Zhu    | Language Model in NLP   |-    |
-| Nov 6, 2019   | Lihui Liu    | -    |-    |
+| Nov 6, 2019   | -    | -    |-    |
 | Nov 13, 2019   | -    | -    |-    |
-| Nov 20, 2019   | -    | -    |-    |
+| Nov 20, 2019   | Lihui Liu    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
-| Dec 4, 2019   | -    | -    |-    |
+| Dec 4, 2019   | Yikun Ban & Yuchen Yan  | -    |-    |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Recommended Flows</span>
 
@@ -70,5 +70,10 @@ Provable Defenses against Adversarial Examples via the Convex Outer Adversarial 
 *   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">	 	Daniel Zügner, Amir Akbarnejad, Stephan Günnemann: Adversarial Attacks on Neural Networks for Graph Data. KDD 2018: 2847-2856.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
 *   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Guanhong Tao, Shiqing Ma, Yingqi Liu, Xiangyu Zhang: Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples. NeurIPS 2018: 7728-7739</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
 
+#### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: underline; line-height: 1.25em;">Tracking PageRank vector:</span>
+
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Andersen, Reid, Fan Chung, and Kevin Lang. "Local graph partitioning using pagerank vectors." 2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06). IEEE, 2006.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Ohsaka, Naoto, Takanori Maehara, and Ken-ichi Kawarabayashi. "Efficient pagerank tracking in evolving networks." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
+*   <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: Arial; vertical-align: baseline; line-height: 1.2em;"><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;">Zhang, Hongyang, Peter Lofgren, and Ashish Goel. "Approximate personalized pagerank on dynamic graphs." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016.</span><span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-size: 14.95px; font-family: inherit; vertical-align: baseline; line-height: 1.5em;"> </span></span>
 
 [Click to see what we have covered in each semester](Semester/)
