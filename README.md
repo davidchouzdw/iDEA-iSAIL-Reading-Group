@@ -19,10 +19,10 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 16, 2019   | Si Zhang  | -    |-    |
 | Oct 23, 2019   | Yu Wang & Ziye Zhu    | Language Model in NLP   |-    |
 | Nov 6, 2019   | -    | -    |-    |
-| Nov 13, 2019   | -    | -    |-    |
+| Nov 13, 2019   | Yikun Ban    | -    |-    |
 | Nov 20, 2019   | Lihui Liu    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
-| Dec 4, 2019   | Yikun Ban & Yuchen Yan  | -    |-    |
+| Dec 4, 2019   | Yuchen Yan  | -    |-    |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Recommended Flows</span>
 
