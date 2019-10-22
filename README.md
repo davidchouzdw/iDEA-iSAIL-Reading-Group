@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
 | Oct 9, 2019   | Zhe Xu    | Virtual Adversarial Training and Its Extension to GCN    |[Virtual Adversarial Training](https://arxiv.org/pdf/1704.03976.pdf), [Batch Virtual Adversarial Training for Graph Convolutional Networks](https://arxiv.org/pdf/1902.09192.pdf)    |
 | Oct 16, 2019   | Si Zhang  | -    |-    |
-| Oct 23, 2019   | Yu Wang & Ziye Zhu    | Language Model in NLP   |-    |
+| Oct 23, 2019   | Yu Wang   | Language Model in NLP   |-    |
 | Nov 6, 2019   | Baoyu Jing    | -    |-    |
 | Nov 13, 2019   | Yikun Ban    | -    |-    |
 | Nov 20, 2019   | Lihui Liu    | -    |-    |
