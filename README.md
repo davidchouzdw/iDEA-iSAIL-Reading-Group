@@ -19,7 +19,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 16, 2019   | Si Zhang  | -    |-    |
 | Oct 23, 2019   | Yu Wang   | Language Model in NLP   |-    |
 | Oct 30, 2019   | Boxin Du, Jian Kang, Qinghai Zhou | CIKM/ICDM dry-run | |
-| Nov 6, 2019   | Baoyu Jing    | -    |-    |
+| Nov 6, 2019   | Baoyu Jing    | GCN for Dependency Parsing    | [Dependency Parsing with GCN](https://www.aclweb.org/anthology/P19-1237/), [Slides](https://github.com/brucejing-github/iDEA-iSAIL-Reading-Group/tree/master/Semester/2019%20Fall/11-6)    |
 | Nov 13, 2019   | Yikun Ban    | -    |-    |
 | Nov 20, 2019   | Lihui Liu    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
