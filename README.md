@@ -23,7 +23,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Nov 13, 2019   | Yikun Ban    | -    |-    |
 | Nov 20, 2019   | Lihui Liu    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
-| Dec 4, 2019   | Yuchen Yan  | -    |-    |
+
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Recommended Flows</span>
 
