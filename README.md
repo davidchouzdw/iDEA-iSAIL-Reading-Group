@@ -24,7 +24,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Nov 20, 2019   | Lihui Liu    | -    |-    |
 | Nov 27, 2019   | NA    | Thanksgiving    |-    |
 | Mar 18, 2020   | Yuchen Yan    | -    |-    |
-| Mar 25, 2020   | -   | -    |-    |
+| Mar 25, 2020   |  AAAI20  | Turing Award Winners Event    |https://www.youtube.com/watch?v=UX8OubxsY8w    |
 | Apr 1, 2020   | Jian Kang    | -    |-    |
 | Apr 8, 2020   | Xu Liu | GCN with syntactic and semantic information | https://www.aclweb.org/anthology/P19-1320.pdf |
 | Apr 15, 2020   | -   | -    |-    |
