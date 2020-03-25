@@ -30,7 +30,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Apr 15, 2020   | -   | -    |-    |
 | Apr 22, 2020   | Boxin Du   | -    |-    |
 | Apr 29, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
-| May 6, 2020   | -   | -    |-    |
+| May 6, 2020   | Qinghai Zhou   | -    |-    |
 | May 13, 2020   | -   | -    |-    |
 
 
