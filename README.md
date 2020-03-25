@@ -11,7 +11,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Mar 18, 2020   | Yuchen Yan    | GAN for graphs   | [GraphGAN](https://arxiv.org/pdf/1711.08267.pdf)   |
-| Mar 25, 2020   |  AAAI20  | Turing Award Winners Event    |[Lecture by Geoffrey Hinton, Yann LeCun, Yoshua Bengio] (https://www.youtube.com/watch?v=UX8OubxsY8w)    |
+| Mar 25, 2020   |  AAAI20  | Turing Award Winners Event    |[Lecture by Geoffrey Hinton, Yann LeCun, Yoshua Bengio(https://www.youtube.com/watch?v=UX8OubxsY8w)    |
 | Apr 1, 2020   | Jian Kang    | -    |-    |
 | Apr 8, 2020   | Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |
 | Apr 15, 2020   | -   | -    |-    |
