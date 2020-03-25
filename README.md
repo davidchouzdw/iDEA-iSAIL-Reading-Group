@@ -6,24 +6,11 @@ I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group a
 Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4403. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2019 Fall:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sep 4, 2019  | Hansheng Ren | Kick-Off Meeting|-    |
-| Sep 11, 2019   |Xue Hu & Dongqi Fu| Data Poisoning Attacks & Tracking PageRank Vector    |
-| Sep 18, 2019 |Dawei Zhou & Lecheng Zheng | Recent Advances of Transformer Machine|[Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf), [XLNet](https://arxiv.org/pdf/1906.08237.pdf  )   |
-| Sep 25, 2019 | Yao Zhou & Jun Wu    | Adversarial Attack with Its Applications    |  [Graph Embedding Attack](http://proceedings.mlr.press/v97/bojchevski19a), [GCN Attack](https://openreview.net/pdf?id=Bylnx209YX), [Machine Teaching Attack](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9472/9954), [Clean-Label Poisoning](https://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks.pdf)|
-| Oct 2, 2019   | MAA-members   | Active Interpretation of Disparate Alternatives (AIDA)    |-    |
-| Oct 9, 2019   | Zhe Xu    | Virtual Adversarial Training and Its Extension to GCN    |[Virtual Adversarial Training](https://arxiv.org/pdf/1704.03976.pdf), [Batch Virtual Adversarial Training for Graph Convolutional Networks](https://arxiv.org/pdf/1902.09192.pdf)    |
-| Oct 16, 2019   | Si Zhang  | -    |-    |
-| Oct 23, 2019   | Yu Wang   | Language Model in NLP   |-    |
-| Oct 30, 2019   | Boxin Du, Jian Kang, Qinghai Zhou | CIKM/ICDM dry-run | |
-| Nov 6, 2019   | Baoyu Jing    | GCN for Dependency Parsing    | [Dependency Parsing with GCN](https://www.aclweb.org/anthology/P19-1237/), [Slides](https://github.com/brucejing-github/iDEA-iSAIL-Reading-Group/tree/master/Semester/2019%20Fall/11-6)    |
-| Nov 13, 2019   | Yikun Ban    | -    |-    |
-| Nov 20, 2019   | Lihui Liu    | -    |-    |
-| Nov 27, 2019   | NA    | Thanksgiving    |-    |
-| Mar 18, 2020   | Yuchen Yan    | -    |-    |
+| Mar 18, 2020   | Yuchen Yan    | GAN for graphs   | GraphGAN(https://arxiv.org/pdf/1711.08267.pdf)   |
 | Mar 25, 2020   |  AAAI20  | Turing Award Winners Event    |https://www.youtube.com/watch?v=UX8OubxsY8w    |
 | Apr 1, 2020   | Jian Kang    | -    |-    |
 | Apr 8, 2020   | Xu Liu | GCN with syntactic and semantic information | https://www.aclweb.org/anthology/P19-1320.pdf |
