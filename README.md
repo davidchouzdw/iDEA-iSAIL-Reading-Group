@@ -28,7 +28,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Apr 1, 2020   | Jian Kang    | -    |-    |
 | Apr 8, 2020   | Xu Liu | GCN with syntactic and semantic information | https://www.aclweb.org/anthology/P19-1320.pdf |
 | Apr 15, 2020   | -   | -    |-    |
-| Apr 22, 2020   | -    | -    |-    |
+| Apr 22, 2020   | Boxin Du   | -    |-    |
 | Apr 29, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
 | May 6, 2020   | -   | -    |-    |
 | May 13, 2020   | -   | -    |-    |
