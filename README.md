@@ -14,9 +14,9 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Mar 25, 2020   |  AAAI20  | Turing Award Winners Event    |[Lecture by Geoffrey Hinton, Yann LeCun, Yoshua Bengio](https://www.youtube.com/watch?v=UX8OubxsY8w)    |
 | Apr 1, 2020   | Jian Kang    | Graph Neural Tangent Kernel (GNTK)    |[Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192.pdf)    |
 | Apr 8, 2020   | Dawei Zhou, Yao Zhou   | Dry run for The Web Conference 2020    |-    |
-| Apr 15, 2020   | Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |
+| Apr 15, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding]
 | Apr 22, 2020   | Boxin Du   | -    |-    |
-| Apr 29, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
+| Apr 29, 2020   |  Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |(https://arxiv.org/abs/1807.03748)    |
 | May 6, 2020   | Qinghai Zhou   | -    |-    |
 | May 13, 2020   | -   | -    |-    |
 
