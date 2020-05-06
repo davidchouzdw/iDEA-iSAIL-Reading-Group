@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Apr 15, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
 | Apr 22, 2020   | Boxin Du   | -    |-    |
 | Apr 29, 2020   |  Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |
-| May 6, 2020   | Qinghai Zhou   | -    |-    |
+| May 6, 2020   | Qinghai Zhou   | Learning Transferable Graph Exploration   |  [paper](https://papers.nips.cc/paper/8521-learning-transferable-graph-exploration.pdf) |
 | May 13, 2020   | -   | -    |-    |
 
 
