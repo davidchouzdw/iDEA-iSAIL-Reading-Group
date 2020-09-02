@@ -6,6 +6,29 @@ I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group a
 Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12am, SC 4403. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
 
+
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Fall:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Sept 9, 2020   |     |    |    |
+| Sept 16, 2020   |     |    |    |
+| Sept 23, 2020   |     |    |    |
+| Sept 30, 2020   |     |    |    |
+| Oct 7, 2020   |     |    |    |
+| Oct 14, 2020   |     |    |    |
+| Oct 21, 2020   |     |    |    |
+| Oct 28, 2020   |     |    |    |
+| Nov 4, 2020   |     |    |    |
+| Nov 11, 2020   |     |    |    |
+| Nov 18, 2020   |     |    |    |
+| Nov 25, 2020   |     |    |    |
+| Dec 2, 2020   |     |    |    |
+| Dec 9, 2020   |     |    |    |
+| Dec 16, 2020   |     |    |    |
+
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
 
 | Dates | Presenters | Topics | Materials|
