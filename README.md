@@ -16,7 +16,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Sept 16, 2020   |     |    |    |
 | Sept 23, 2020   |     |    |    |
 | Sept 30, 2020   |     |    |    |
-| Oct 7, 2020   |     |    |    |
+| Oct 7, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Oct 14, 2020   |     |    |    |
 | Oct 21, 2020   |     |    |    |
 | Oct 28, 2020   |     |    |    |
