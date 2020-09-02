@@ -22,7 +22,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 28, 2020   |     |    |    |
 | Nov 4, 2020   |     |    |    |
 | Nov 11, 2020   | Lecheng Zheng |    |    |
-| Nov 18, 2020   |    |    |    |
+| Nov 18, 2020   | Yao Zhou | Sample metric for recommendation | [sampled metric](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
 | Nov 25, 2020   |  Dawei Zhou   |    |    |
 | Dec 2, 2020   |     |    |    |
 | Dec 9, 2020   |     |    |    |
