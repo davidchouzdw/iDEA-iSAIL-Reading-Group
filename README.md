@@ -23,7 +23,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Nov 4, 2020   |     |    |    |
 | Nov 11, 2020   | Lecheng Zheng |    |    |
 | Nov 18, 2020   |    |    |    |
-| Nov 25, 2020   |   Dawei Zhou  |    |    |
+| Nov 25, 2020   |    |    |    |
 | Dec 2, 2020   |     |    |    |
 | Dec 9, 2020   |     |    |    |
 | Dec 16, 2020   |     |    |    |
