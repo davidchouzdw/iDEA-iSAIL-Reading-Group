@@ -19,7 +19,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 7, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Oct 14, 2020   |     |    |    |
 | Oct 21, 2020   |     |    |    |
-| Oct 28, 2020   |     |    |    |
+| Oct 28, 2020   | Haonan Wang |    |    |
 | Nov 4, 2020   |     |    |    |
 | Nov 11, 2020   | Lecheng Zheng |    |    |
 | Nov 18, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
