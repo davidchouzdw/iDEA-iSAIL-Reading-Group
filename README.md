@@ -25,7 +25,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Nov 16, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
 | Nov 23, 2020   |  Dawei Zhou   |    |    |
 | Nov 30, 2020   | Jian Kang |    |    |
-| Dec 7, 2020   |     |    |    |
+| Dec 7, 2020   | Qinghai Zhou  |    |    |
 | Dec 14, 2020   |     |    |    |
 
 
