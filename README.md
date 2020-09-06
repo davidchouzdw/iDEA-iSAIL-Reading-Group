@@ -12,21 +12,21 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sept 9, 2020   |     |    |    |
-| Sept 16, 2020   |     |    |    |
-| Sept 23, 2020   |     |    |    |
-| Sept 30, 2020   |     |    |    |
-| Oct 7, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
-| Oct 14, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
-| Oct 21, 2020   |     |    |    |
-| Oct 28, 2020   |     |    |    |
-| Nov 4, 2020   |               |    |    |
-| Nov 11, 2020   | Lecheng Zheng |    |    |
-| Nov 18, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
-| Nov 25, 2020   |  Dawei Zhou   |    |    |
-| Dec 2, 2020   | Jian Kang |    |    |
-| Dec 9, 2020   |     |    |    |
-| Dec 16, 2020   |     |    |    |
+| Sept 7, 2020   |     |    |    |
+| Sept 14, 2020   |     |    |    |
+| Sept 21, 2020   |     |    |    |
+| Sept 28, 2020   |     |    |    |
+| Oct 5, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
+| Oct 12, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
+| Oct 19, 2020   |     |    |    |
+| Oct 26, 2020   |     |    |    |
+| Nov 2, 2020   |               |    |    |
+| Nov 9, 2020   | Lecheng Zheng |    |    |
+| Nov 16, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
+| Nov 23, 2020   |  Dawei Zhou   |    |    |
+| Nov 30, 2020   | Jian Kang |    |    |
+| Dec 7, 2020   |     |    |    |
+| Dec 14, 2020   |     |    |    |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
