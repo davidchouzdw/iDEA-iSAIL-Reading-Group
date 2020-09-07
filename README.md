@@ -12,7 +12,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sept 7, 2020   |     |    |    |
+| Sept 7, 2020   |  Max Welling （IAS Talk）   |  Graph Nets: The Next Generation  |    |
 | Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions |
 | Sept 21, 2020   |     |    |    |
 | Sept 28, 2020   |     |    |    |
