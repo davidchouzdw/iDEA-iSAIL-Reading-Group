@@ -26,7 +26,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9-11 
 | Nov 23, 2020   |  Dawei Zhou   |    |    |
 | Nov 30, 2020   | Jian Kang |    |    |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
-| Dec 14, 2020   |     |    |    |
+| Dec 14, 2020   | Boxin Du    |    |    |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
