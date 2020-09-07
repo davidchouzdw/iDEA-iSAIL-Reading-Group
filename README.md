@@ -20,7 +20,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2019 is Wed 11-12
 | Oct 12, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
 | Oct 19, 2020   |     |    |    |
 | Oct 26, 2020   |     |    |    |
-| Nov 2, 2020   |               |    |    |
+| Nov 2, 2020    | Ziwei Wu | Sampling Strategy in Graph | [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863) |
 | Nov 9, 2020   | Lecheng Zheng |    |    |
 | Nov 16, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
 | Nov 23, 2020   |  Dawei Zhou   |    |    |
