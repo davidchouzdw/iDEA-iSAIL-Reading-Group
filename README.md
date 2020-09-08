@@ -14,7 +14,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9-11 
 | :---:         |     :---:      |          :---: |   :---: |
 | Sept 7, 2020   |  Max Welling （IAS Talk）   |  Graph Nets: The Next Generation  |    |
 | Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions |
-| Sept 21, 2020   |     |    |    |
+| Sept 21, 2020   | Shengyu Feng    |    |    |
 | Sept 28, 2020   |  Lihui Liu   |    |    |
 | Oct 5, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Oct 12, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
