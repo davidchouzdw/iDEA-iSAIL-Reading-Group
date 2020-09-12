@@ -24,7 +24,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9-11 
 | Nov 9, 2020   | Lecheng Zheng |    |    |
 | Nov 16, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
 | Nov 23, 2020   |  Dawei Zhou   |    |    |
-| Nov 30, 2020   | Jian Kang |    |    |
+| Nov 30, 2020   | Jian Kang |  NTK  |  [Neural Tangent Kernel](https://papers.nips.cc/paper/8076-neural-tangent-kernel-convergence-and-generalization-in-neural-networks.pdf)  |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
 | Dec 14, 2020   | Boxin Du    |    |    |
 
