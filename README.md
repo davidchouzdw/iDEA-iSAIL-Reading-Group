@@ -16,13 +16,13 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9-11 
 | Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions |
 | Sept 21, 2020   | Shengyu Feng    |  Graph Contrastive Learning  | [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://arxiv.org/abs/2006.09963), [slides](https://docs.google.com/presentation/d/1UfynKFBOKKMA4CBjv2vF8-b1SdwEjZWsu9l7HAGAyzk/edit?usp=sharing)   |
 | Sept 28, 2020   |  Lihui Liu   |    |    |
-| Oct 5, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
+| Oct 5, 2020   | Yao Zhou | Preliminary exam dry run | Preliminary exam dry run|
 | Oct 12, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
 | Oct 19, 2020   |  Ziwei Wu  |  Sampling Strategy in Graph  |  [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863)  |
 | Oct 26, 2020   |  Haonan Wang   |    |    |
 | Nov 2, 2020    | Zhe Xu |  |  |
 | Nov 9, 2020   | Lecheng Zheng |    |    |
-| Nov 16, 2020   | Yao Zhou | Sampled metric for recommendation | [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403226) |
+| Nov 16, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Nov 23, 2020   |  Dawei Zhou   |    |    |
 | Nov 30, 2020   | Jian Kang |  NTK  |  [Neural Tangent Kernel](https://papers.nips.cc/paper/8076-neural-tangent-kernel-convergence-and-generalization-in-neural-networks.pdf)  |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
