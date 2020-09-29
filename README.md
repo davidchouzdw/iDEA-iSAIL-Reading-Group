@@ -15,7 +15,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9-11 
 | Sept 7, 2020   |  Max Welling （IAS Talk）   |  Graph Nets: The Next Generation  |    |
 | Sept 14, 2020   |Yikun Ban | Online learning/ Bandits | Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions |
 | Sept 21, 2020   | Shengyu Feng    |  Graph Contrastive Learning  | [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://arxiv.org/abs/2006.09963), [slides](https://docs.google.com/presentation/d/1UfynKFBOKKMA4CBjv2vF8-b1SdwEjZWsu9l7HAGAyzk/edit?usp=sharing)   |
-| Sept 28, 2020   |  Lihui Liu   |    |    |
+| Sept 28, 2020   |  Lihui Liu   |  Neural subgraph counting  |  [Neural subgraph isomorphism counting](https://arxiv.org/abs/1912.11589), [slides](https://drive.google.com/file/d/1zPbDUi701d6NVxW1YefR32Jfo3aNLSz8/view?usp=sharing)  |
 | Oct 5, 2020   | Yao Zhou | Preliminary exam dry run | Preliminary exam dry run|
 | Oct 12, 2020   | Jun Wu    |  Pre-Training  |  [Using Pre-Training Can Improve Model Robustness and Uncertainty](http://proceedings.mlr.press/v97/hendrycks19a.html)  |
 | Oct 19, 2020   |  Ziwei Wu  |  Sampling Strategy in Graph  |  [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863)  |
