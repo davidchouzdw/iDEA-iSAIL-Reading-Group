@@ -1,7 +1,7 @@
 # <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">I-I Reading Group</span> 
 I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group at UIUC, coordinated by Prof. Hanghang Tong and Prof. Jingrui He. The main purpose of this group is to educate and inform its members of the recent advances of machine learning and data mining.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Mon 9-11 pm} at {Zoom:https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09}.</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting Time: {Mon 9:30 - 11:30 pm} at {Zoom:https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09}.</span>
 
 Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-11:30 pm via Zoom. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
