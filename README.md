@@ -28,7 +28,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Nov 9, 2020   | Lecheng Zheng |  Self-supervised Learning  | [Multi-label Contrastive Predictive Coding](https://arxiv.org/pdf/2007.09852.pdf)   |
 | Nov 16, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Nov 23, 2020   |  Zhe Xu   |    |    |
-| Nov 30, 2020   | Jian Kang |  NTK  |  [Neural Tangent Kernel](https://papers.nips.cc/paper/8076-neural-tangent-kernel-convergence-and-generalization-in-neural-networks.pdf)  |
+| Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
 | Dec 14, 2020   | Boxin Du    |    |    |
 
