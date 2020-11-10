@@ -25,7 +25,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Oct 19, 2020   |  Ziwei Wu  |  Sampling Strategy in Graph  |  [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863)  |
 | Oct 26, 2020   | Dawei Zhou | Preliminary exam dry run |  Preliminary exam dry run|
 | Nov 2, 2020   |  Haonan Wang   |  GMNN: Graph Markov Neural Networks  |  [GMNN: Graph Markov Neural Networks](https://arxiv.org/pdf/1905.06214.pdf), [slides](https://drive.google.com/file/d/1x0XpCILHuDbc6llc0UmkAgLXmeErtyDN/view?usp=sharing) |
-| Nov 9, 2020   | Lecheng Zheng |  Self-supervised Learning  | [Multi-label Contrastive Predictive Coding](https://arxiv.org/pdf/2007.09852.pdf)   |
+| Nov 9, 2020   | Lecheng Zheng |  Self-supervised Learning  | [Multi-label Contrastive Predictive Coding](https://arxiv.org/pdf/2007.09852.pdf), [slides](https://drive.google.com/file/d/15mZ0lLQGKnzaewfH8T40CJgliaUNnF2R/view?usp=sharing) |
 | Nov 16, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
 | Nov 23, 2020   |  Zhe Xu   |    |    |
 | Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
