@@ -30,6 +30,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Nov 23, 2020   |  Zhe Xu   |    |    |
 | Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
+| Dec 8, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  |    |
 | Dec 14, 2020   | Boxin Du    |    |    |
 
 
