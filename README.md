@@ -30,8 +30,8 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Nov 23, 2020   |  Zhe Xu   | Transferring robustness | [Transferring robustness for graph neural network against poisoning attacks](https://dl.acm.org/doi/pdf/10.1145/3336191.3371851?casa_token=Emf8DSiOGpoAAAAA:CctWmYfYXctzhhRINmXiGz0UfIlgdsQG-Gg_NRt2KtCo89m2zynDBqEDa98SYTb5qgx-Jea1xPQ), [slides](https://drive.google.com/file/d/1XEknLiwKZpeMyZWOfVU7awJo8ODCRCK1/view?usp=sharing) |
 | Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
 | Dec 7, 2020   | Qinghai Zhou  |    |    |
-| Dec 8, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  |    |
 | Dec 14, 2020   | Boxin Du    |    |    |
+| Dec 15, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  |    |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
