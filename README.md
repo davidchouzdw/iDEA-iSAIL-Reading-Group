@@ -31,7 +31,8 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
 | Dec 7, 2020   | Qinghai Zhou  | Active Learning on Graphs   |  [Graph Policy Network for Transferable Active Learning on Graphs](https://papers.nips.cc/paper/2020/file/73740ea85c4ec25f00f9acbd859f861d-Paper.pdf), [slides](https://drive.google.com/file/d/1VEAaCUMkf_dRUebsYAubKUduSH_a6Zf8/view?usp=sharing)  |
 | Dec 14, 2020   | Boxin Du    |    |    |
-| Dec 15, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  |    |
+| Dec 15, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  | [Slides](https://www.dropbox.com/s/z4wipbrf7q3te7r/UIUC_talk.pdf?dl=0)    |
+
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
