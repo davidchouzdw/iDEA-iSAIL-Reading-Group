@@ -9,6 +9,27 @@ Zoom: https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09
 
 Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-11:30 pm via Zoom. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Spring:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jan 25, 2021   |  Dawei Zhou   |  Practice Talk  |    |
+| Feb 1, 2021   |     |    |    |
+| Feb 8, 2021   |   KDD Deadline  |    |    |
+| Feb 15, 2021   |     |    |    |
+| Feb 22, 2021   |     |    |    |
+| Mar 1, 2021   |     |    |    |
+| Mar 8, 2021   |     |    |    |
+| Mar 15, 2021   |     |    |    |
+| Mar 22, 2021   |     |    |    |
+| Mar 29, 2021   |     |    |    |
+| Apr 5, 2021   |     |    |    |
+| Apr 12, 2021   |     |    |    |
+| Apr 19, 2021   |     |    |    |
+| Apr 26, 2021   |     |    |    |
+| May 3, 2021   |     |    |    |
+| May 10, 2021   |     |    |    |
+| May 17, 2021   |     |    |    |
 
 
 
