@@ -9,6 +9,27 @@ Zoom: https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09
 
 Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-11:30 pm via Zoom. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Spring:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jan 25, 2021   |  Dawei Zhou   |  Practice Talk  |    |
+| Feb 1, 2021   |     |    |    |
+| Feb 8, 2021   |   KDD Deadline  |    |    |
+| Feb 15, 2021   |     |    |    |
+| Feb 22, 2021   |     |    |    |
+| Mar 1, 2021   |     |    |    |
+| Mar 8, 2021   |     |    |    |
+| Mar 15, 2021   |     |    |    |
+| Mar 22, 2021   |     |    |    |
+| Mar 29, 2021   |     |    |    |
+| Apr 5, 2021   |     |    |    |
+| Apr 12, 2021   |   Lecheng Zheng  |   WWW Dry Run |    |
+| Apr 19, 2021   |  Baoyu Jing   |    |    |
+| Apr 26, 2021   |     |    |    |
+| May 3, 2021   |     |    |    |
+| May 10, 2021   |     |    |    |
+| May 17, 2021   |     |    |    |
 
 
 
@@ -25,12 +46,14 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Oct 19, 2020   |  Ziwei Wu  |  Sampling Strategy in Graph  |  [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/abs/2005.09863)  |
 | Oct 26, 2020   | Dawei Zhou | Preliminary exam dry run |  Preliminary exam dry run|
 | Nov 2, 2020   |  Haonan Wang   |  GMNN: Graph Markov Neural Networks  |  [GMNN: Graph Markov Neural Networks](https://arxiv.org/pdf/1905.06214.pdf), [slides](https://drive.google.com/file/d/1x0XpCILHuDbc6llc0UmkAgLXmeErtyDN/view?usp=sharing) |
-| Nov 9, 2020   | Lecheng Zheng |  Self-supervised Learning  | [Multi-label Contrastive Predictive Coding](https://arxiv.org/pdf/2007.09852.pdf)   |
+| Nov 9, 2020   | Lecheng Zheng |  Self-supervised Learning  | [Multi-label Contrastive Predictive Coding](https://arxiv.org/pdf/2007.09852.pdf), [slides](https://drive.google.com/file/d/15mZ0lLQGKnzaewfH8T40CJgliaUNnF2R/view?usp=sharing) |
 | Nov 16, 2020   | Dongqi Fu | Fair Spectral Clustering |[Guarantees for Spectral Clustering with Fairness Constraints](https://arxiv.org/pdf/1901.08668.pdf)|
-| Nov 23, 2020   |  Zhe Xu   |    |    |
-| Nov 30, 2020   | Jian Kang |  NTK  |  [Neural Tangent Kernel](https://papers.nips.cc/paper/8076-neural-tangent-kernel-convergence-and-generalization-in-neural-networks.pdf)  |
-| Dec 7, 2020   | Qinghai Zhou  |    |    |
-| Dec 14, 2020   | Boxin Du    |    |    |
+| Nov 23, 2020   |  Zhe Xu   | Transferring robustness | [Transferring robustness for graph neural network against poisoning attacks](https://dl.acm.org/doi/pdf/10.1145/3336191.3371851?casa_token=Emf8DSiOGpoAAAAA:CctWmYfYXctzhhRINmXiGz0UfIlgdsQG-Gg_NRt2KtCo89m2zynDBqEDa98SYTb5qgx-Jea1xPQ), [slides](https://drive.google.com/file/d/1XEknLiwKZpeMyZWOfVU7awJo8ODCRCK1/view?usp=sharing) |
+| Nov 30, 2020   | Si Zhang |  Preliminary exam dry run  |  Preliminary exam dry run  |
+| Dec 7, 2020   | Qinghai Zhou  | Active Learning on Graphs   |  [Graph Policy Network for Transferable Active Learning on Graphs](https://papers.nips.cc/paper/2020/file/73740ea85c4ec25f00f9acbd859f861d-Paper.pdf), [slides](https://drive.google.com/file/d/1VEAaCUMkf_dRUebsYAubKUduSH_a6Zf8/view?usp=sharing)  |
+| Dec 14, 2020   | Boxin Du    |  Box Embedding for KBC   | [BoxE: A Box Embedding Model for Knowledge Base Completion](https://proceedings.neurips.cc/paper/2020/file/6dbbe6abe5f14af882ff977fc3f35501-Supplemental.pdf), [slides](https://drive.google.com/file/d/1rD3qETbT1RLEtYQsK5__aASJRnv_VUjf/view?usp=sharing)  |
+| Dec 15, 2020   | Shweta Jain  |  Counting cliques in real-world graphs  | [Slides](https://www.dropbox.com/s/z4wipbrf7q3te7r/UIUC_talk.pdf?dl=0)    |
+
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2020 Spring:</span>
