@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Feb 1, 2021   |     |    |    |
 | Feb 8, 2021   |   KDD Deadline  |    |    |
 | Feb 15, 2021   |     |    |    |
-| Feb 22, 2021   | Lecheng Zheng |    |    |
+| Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |    |
 | Mar 1, 2021   |     |    |    |
 | Mar 8, 2021   |     |    |    |
 | Mar 15, 2021   |     |    |    |
