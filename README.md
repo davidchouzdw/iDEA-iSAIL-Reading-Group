@@ -13,10 +13,6 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Jan 25, 2021   |  Dawei Zhou   |  Practice Talk  |    |
-| Feb 1, 2021   |     |    |    |
-| Feb 8, 2021   |   KDD Deadline  |    |    |
-| Feb 15, 2021   |     |    |    |
 | Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |  [SupCon](https://arxiv.org/abs/2004.11362),[SimCLR](https://arxiv.org/pdf/2002.05709.pdf), [CPC](https://arxiv.org/abs/1807.03748), [MOCO](https://arxiv.org/abs/1911.05722)  |
 | Mar 1, 2021   |     |    |    |
 | Mar 8, 2021   |     |    |    |
