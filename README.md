@@ -20,7 +20,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Mar 22, 2021   |     |    |    |
 | Mar 29, 2021   |    |    |    |
 | Apr 5, 2021   | Yikun Ban, Haonan Wang  |  WWW Dry Run 1 |    |
-| Apr 12, 2021   |   Lecheng Zheng, Yucheng Yan  |   WWW Dry Run 2|    |
+| Apr 12, 2021   |   Lecheng Zheng, Yuchen Yan  |   WWW Dry Run 2|    |
 | Apr 19, 2021   |  Baoyu Jing, Qinghai Zhou  |   WWW Dry Run 3 |    |
 | Apr 26, 2021   |     |    |    |
 | May 3, 2021   |     |    |    |
