@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Mar 1, 2021   |  Wenxuan Bao   |    |    |
 | Mar 8, 2021   |   Jian Kang  |    |    |
 | Mar 15, 2021   |  Yuchen Yan   |    |    |
-| Mar 22, 2021   |     |    |    |
+| Mar 22, 2021   |  Dongqi Fu   |    |    |
 | Mar 29, 2021   |  Boxin Du  |    |    |
 | Apr 5, 2021   | Yikun Ban, Haonan Wang  |  WWW Dry Run 1 |    |
 | Apr 12, 2021   |   Lecheng Zheng, Yuchen Yan  |   WWW Dry Run 2|    |
