@@ -24,7 +24,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Apr 19, 2021   |  Baoyu Jing, Qinghai Zhou  |   WWW Dry Run 3 |    |
 | Apr 26, 2021   |     |    |    |
 | May 3, 2021   |     |    |    |
-| May 10, 2021   |     |    |    |
+| May 10, 2021   |  Jun Wu   |    |    |
 | May 17, 2021   |     |    |    |
 
 
