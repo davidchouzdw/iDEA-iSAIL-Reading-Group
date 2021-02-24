@@ -23,7 +23,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Apr 12, 2021   |   Lecheng Zheng, Yuchen Yan  |   WWW Dry Run 2|    |
 | Apr 19, 2021   |  Baoyu Jing, Qinghai Zhou  |   WWW Dry Run 3 |    |
 | Apr 26, 2021   | Yuheng Zhang |    |    |
-| May 3, 2021   |     |    |    |
+| May 3, 2021   |  Shweta Jain   |    |    |
 | May 10, 2021   |  Jun Wu   |    |    |
 | May 17, 2021   |   Lihui Liu  |    |    |
 
