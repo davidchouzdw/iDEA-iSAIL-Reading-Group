@@ -17,11 +17,11 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf) |
 | Mar 8, 2021   |   Jian Kang  |  Neural Tangent Kernel  |  [Slides](https://www.dropbox.com/s/hwr8tybxuhb9lb3/ntk.pptx?dl=0)  |
 | Mar 15, 2021   |  Yuchen Yan   |    |    |
-| Mar 22, 2021   |  Dongqi Fu   |    |    |
+| Mar 22, 2021   |  Lecheng Zheng, Qinghai Zhou,  | WWW Dry Run   |    |
 | Mar 29, 2021   |  Boxin Du  |    |    |
 | Apr 5, 2021   | Yikun Ban, Haonan Wang  |  WWW Dry Run 1 |    |
-| Apr 12, 2021   |   Lecheng Zheng, Yuchen Yan  |   WWW Dry Run 2|    |
-| Apr 19, 2021   |  Baoyu Jing, Qinghai Zhou  |   WWW Dry Run 3 |    |
+| Apr 12, 2021   |   Dongqi Fu   |    |    |
+| Apr 19, 2021   |  Baoyu Jing, Yucheng Yan  |   WWW Dry Run 3 |    |
 | Apr 26, 2021   | Yuheng Zhang |    |    |
 | May 3, 2021   |  Shweta Jain   |    |    |
 | May 10, 2021   |  Jun Wu   |    |    |
