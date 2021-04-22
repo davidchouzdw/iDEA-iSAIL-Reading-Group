@@ -22,7 +22,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Apr 5, 2021   |  Qinghai, Baoyu  |  WWW Dry Run   |   |
 | Apr 12, 2021   |   Boxin Du   |  preliminary exam dryrun  |    |
 | Apr 19, 2021   |  Dongqi Fu  |    |    |
-| Apr 26, 2021   | Yuheng Zhang |    |    |
+| Apr 26, 2021   | Yuheng Zhang | Deep Q-learning and Improvements | Rainbow: https://arxiv.org/pdf/1710.02298.pdf |
 | May 3, 2021   |  Shweta Jain   |    |    |
 | May 10, 2021   |  Jun Wu   |    |    |
 | May 17, 2021   |   Lihui Liu  |    |    |
