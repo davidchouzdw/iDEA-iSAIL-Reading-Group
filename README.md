@@ -16,7 +16,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |  [SupCon](https://arxiv.org/abs/2004.11362),[SimCLR](https://arxiv.org/pdf/2002.05709.pdf), [CPC](https://arxiv.org/abs/1807.03748), [MOCO](https://arxiv.org/abs/1911.05722)  |
 | Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf) |
 | Mar 8, 2021   |   Jian Kang  |  Neural Tangent Kernel  |  [Slides](https://www.dropbox.com/s/hwr8tybxuhb9lb3/ntk.pptx?dl=0)  |
-| Mar 15, 2021   |  Yuchen Yan   |    |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
+| Mar 15, 2021   |  Yuchen Yan   | Positional embedding and structural embedding in graphs   |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
 | Mar 22, 2021   |  Lecheng Zheng,   | WWW Dry Run   |    |
 | Mar 29, 2021   |  Yikun Ban, Haonan Wang  |  WWW Dry Run  |    |
 | Apr 5, 2021   |  Qinghai, Baoyu  |  WWW Dry Run   |   |
