@@ -16,13 +16,13 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |  [SupCon](https://arxiv.org/abs/2004.11362),[SimCLR](https://arxiv.org/pdf/2002.05709.pdf), [CPC](https://arxiv.org/abs/1807.03748), [MOCO](https://arxiv.org/abs/1911.05722)  |
 | Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf) |
 | Mar 8, 2021   |   Jian Kang  |  Neural Tangent Kernel  |  [Slides](https://www.dropbox.com/s/hwr8tybxuhb9lb3/ntk.pptx?dl=0)  |
-| Mar 15, 2021   |  Yuchen Yan   | Positional embedding and structural embedding in graphs   |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
+| Mar 15, 2021   |  Yuchen Yan   | Positional Embedding and Structural Embedding in Graphs   |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
 | Mar 22, 2021   |  Lecheng Zheng,   | WWW Dry Run   |    |
 | Mar 29, 2021   |  Yikun Ban, Haonan Wang  |  WWW Dry Run  |    |
 | Apr 5, 2021   |  Qinghai, Baoyu  |  WWW Dry Run   |   |
-| Apr 12, 2021   |   Boxin Du   |  preliminary exam dryrun  |    |
+| Apr 12, 2021   |   Boxin Du   |  Preliminary Exam Dryrun  |    |
 | Apr 19, 2021   |  Dongqi Fu  |   De-Oversmoothing in GNNs |  [PREDICT THEN PROPAGATE](https://arxiv.org/pdf/1810.05997.pdf), [PAIRNORM](https://arxiv.org/pdf/1909.12223.pdf)  |
-| Apr 26, 2021   | Yuheng Zhang | Deep Q-learning and Improvements | [Rainbow](https://arxiv.org/pdf/1710.02298.pdf),[Human-level control through DRL](https://www.nature.com/articles/nature14236.pdf)|
+| Apr 26, 2021   | Yuheng Zhang | Deep Q-learning and Improvements | [Rainbow](https://arxiv.org/pdf/1710.02298.pdf),[Deep Q-Network](https://www.nature.com/articles/nature14236.pdf)|
 | May 3, 2021   |  Shweta Jain   |    |    |
 | May 10, 2021   |  Jun Wu   |    |    |
 | May 17, 2021   |   Lihui Liu  |    |    |
