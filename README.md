@@ -9,6 +9,24 @@ Zoom: https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09
 
 Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-11:30 pm via Zoom. If you would like to present in an upcoming meeting, please email dzhou21/lecheng4 [at] illinois [dot] edu or submit a pull request and add to the table!</span>
 
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Summer:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jun 14, 2021   | *2 slots |  KDD Dry Run  |    |
+| Jun 21, 2021   |  *2 slots  | KDD Dry Run   |   |
+| Jun 25, 2021   | *2 slots  |  KDD Dry Run |  |
+| Jun 28, 2021   |  *2 slots  |  KDD Dry Run  |    |
+| July 5, 2021   |    |    |    |
+| July 12, 2021   |    |    |    |
+| July 19, 2021   |    |    |    |
+| July 26, 2021   |    |    |    |
+| Aug 2, 2021   |    |    |    |
+| Aug 9, 2021   |    |    |    |
+
+
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Spring:</span>
 
 | Dates | Presenters | Topics | Materials|
