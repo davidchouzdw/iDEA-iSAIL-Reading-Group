@@ -17,7 +17,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Jun 14, 2021   | *2 slots |  KDD Dry Run  |    |
 | Jun 16, 2021   |  *2 slots  | KDD Dry Run   |   |
 | Jun 18, 2021   | Yikun Ban,   | KDD Dry Run   |   |
-| Jun 21, 2021   | *2 slots  |  KDD Dry Run |  |
+| Jun 21, 2021   | Boxin Du,  |  KDD Dry Run |  |
 | Jun 28, 2021   |   |    |    |
 | July 5, 2021   |    |    |    |
 | July 12, 2021   |    |    |    |
@@ -80,7 +80,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Apr 1, 2020   | Jian Kang    | Graph Neural Tangent Kernel (GNTK)    |[Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/pdf/1905.13192.pdf)    |
 | Apr 8, 2020   | Dawei Zhou, Yao Zhou   | Dry run for The Web Conference 2020    |-    |
 | Apr 15, 2020   | Lecheng Zheng   |  Self supervised Learning   | [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/abs/1807.03748)    |
-| Apr 22, 2020   | Boxin Du   | -    |-    |
+| Apr 22, 2020   | Boxin Du   | Multi-level spectral approach for graph embedding    | [GraphZoom](https://arxiv.org/abs/1910.02370)   | 
 | Apr 29, 2020   |  Xu Liu | GCN with syntactic and semantic information | [SynGCN](https://www.aclweb.org/anthology/P19-1320.pdf) |
 | May 6, 2020   | Qinghai Zhou   | Learning Transferable Graph Exploration   |  [paper](https://papers.nips.cc/paper/8521-learning-transferable-graph-exploration.pdf) |
 | May 13, 2020   | -   | -    |-    |
