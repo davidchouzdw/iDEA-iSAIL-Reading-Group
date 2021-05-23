@@ -16,7 +16,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | :---:         |     :---:      |          :---: |   :---: |
 | Jun 14, 2021   | *2 slots |  KDD Dry Run  |    |
 | Jun 16, 2021   |  *2 slots  | KDD Dry Run   |   |
-| Jun 18, 2021   | Yikun Ban,   | KDD Dry Run   |   |
+| Jun 18, 2021   | Yikun Ban, Yao Zhou   | KDD Dry Run   |   |
 | Jun 21, 2021   | Boxin Du, Si Zhang  |  KDD Dry Run |  |
 | Jun 28, 2021   |  Dawei Zhou |  Hunting Faculty Jobs in a Tight Market  |    |
 | July 5, 2021   |  Yao Zhou, Xu Liu  |  Industry Job Search  |    |
