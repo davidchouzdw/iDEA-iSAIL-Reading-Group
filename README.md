@@ -23,7 +23,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | July 12, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
 | July 19, 2021   |    |    |    |
 | July 26, 2021   |    |    |    |
-| Aug 2, 2021   |    |    |    |
+| Aug 2, 2021   |  Lecheng Zheng  | Transfer Learning   |    |
 | Aug 9, 2021   |    |    |    |
 
 
