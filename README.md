@@ -3,7 +3,7 @@ I-I (iDEA-iSAIL) group is a statistical learning and data mining reading group a
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meetting.</span>
 
-Time: Mon 9:30 - 11:30 pm.
+Time: 9:30 - 11:30 pm.
 
 Zoom: https://illinois.zoom.us/j/3935113249?pwd=WmFONnFJUHlBVlYrdHFPbFlvYndHQT09
 
