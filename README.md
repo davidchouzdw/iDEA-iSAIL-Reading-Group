@@ -21,7 +21,7 @@ Unless otherwise notified, our regular weekly meeting for Fall 2020 is Mon 9:30-
 | Jun 28, 2021   |  Dawei Zhou |  Hunting Faculty Jobs in a Tight Market  |    |
 | July 5, 2021   |  Yao Zhou, Xu Liu  |  Industry Job Search  |    |
 | July 12, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
-| July 19, 2021   |    |    |    |
+| July 19, 2021   |  Shengyu Feng  | Graph Optimal Transport   |    |
 | July 26, 2021   |  Jun Wu   |  Mixup  |  [Manifold Mixup](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)  |
 | Aug 2, 2021   |  Lecheng Zheng  | Transfer Learning   |    |
 | Aug 9, 2021   |    |    |    |
